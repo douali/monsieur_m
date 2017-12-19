@@ -1,0 +1,13 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.logo-monsieurm {
+    /*text-align: center;*/
+    display: block;
+    margin-left: auto;
+    margin: auto;
+    margin-right: auto;
+    width: 150px;
+    height: 150px;
+}
